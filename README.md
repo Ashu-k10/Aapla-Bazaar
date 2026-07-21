@@ -192,7 +192,7 @@ GitHub: https://github.com/Ashu-k10
 
 ## 📜 License
 
-This project is licensed under the All right reserved ©
+This project is licensed under All right reserved ©
 
 ---
 
