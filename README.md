@@ -77,7 +77,7 @@ Aapla-Bazaar/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/aapla-bazaar.git
+git clone https://github.com/Ashu-k10/aapla-bazaar.git
 ```
 
 Move into the project folder
@@ -184,17 +184,15 @@ git push origin feature-name
 
 **Ashutosh Kadu**
 
-Engineering Student | React Developer | Python Developer
+Engineering Student | Python Developer | AI Engineer 
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+GitHub: https://github.com/Ashu-k10
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the All right reserved ©
 
 ---
 
