@@ -184,7 +184,7 @@ git push origin feature-name
 
 **Ashutosh Kadu**
 
-Engineering Student | Python Developer | AI Engineer 
+Computer Engineering Student | Python Developer | AI Engineer 
 
 GitHub: https://github.com/Ashu-k10
 
